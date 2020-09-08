@@ -1,0 +1,44 @@
+.content{
+width:60%;
+float: left;
+padding: 0 0 0 30px;
+
+
+}
+
+.sidebar{
+width:40%;
+float:right;
+padding: 10px;
+background : #000;
+color:white;
+height:100%;
+border-radius: 20px;
+}
+h1{
+text-align:center;
+border-bottom:1px solid;
+}
+body{
+background:grey;
+}
+#date{
+color:yellow;
+font-size:12px;
+font-style:italic;
+}
+a{
+color:#ffffb3;
+}
+.ch{
+color:yellow;
+font-size: 20px;
+font-style: italic;
+border-bottom: 2px sollid yellow;
+}
+#pcount{
+font-size: 40px;
+color: yellow;
+font-weight: bold;
+}
+
